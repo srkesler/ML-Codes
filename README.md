@@ -1,3 +1,3 @@
-# RFinR
+# Machine Learning Codes
 
-R software scripts for conducting various random forest analyses including classification, regression, cross-validation and unsupervised learning.
+R and Matlab  scripts for conducting various ML analyses.
