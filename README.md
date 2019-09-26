@@ -14,4 +14,6 @@ Naive bayes
 
 Hierarchical clustering
 
+R version of Finn et al. Connectome-based Predictive Modeling
+
 
