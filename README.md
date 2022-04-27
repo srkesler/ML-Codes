@@ -16,4 +16,4 @@ Hierarchical clustering
 
 R version of Finn et al. Connectome-based Predictive Modeling
 
-
+Cox PH with 10 folds CV
